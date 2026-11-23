@@ -22,6 +22,7 @@ Don't leave empty CATCH statements.
 Selects from DB tables and CDS views should be mocked by framework CL_OSQL_TEST_ENVIRONMENT.
 If needed you can use framework CL_CDS_TEST_ENVIRONMENT for CDS views instead of CL_OSQL_TEST_ENVIRONMENT.
 FMs should be mocked by framework CL_FUNCTION_TEST_ENVIRONMENT.
+If it is not possible to ensure 100% coverage, the maximum possible coverage should be provided.
 
 ## ABAP-specific rules
 
